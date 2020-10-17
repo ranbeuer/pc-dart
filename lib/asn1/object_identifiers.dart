@@ -256,6 +256,11 @@ class ObjectIdentifiers {
       'readableName': 'GN',
       'identifier': [2, 5, 4, 42]
     },
+    {
+      'identifierString','0.9.2342.19200300.100.1.1',
+      'readableName','UID',
+      'identifier',[0, 9, 2342, 19200300, 100, 1, 1]
+    }
   ];
 
   ///
